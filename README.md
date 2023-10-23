@@ -3,6 +3,9 @@
 
 A quick django API for Employees and Departments
 
+## Install
+
+You must install Python and SQLite on your device
 
 ## Run API
 
